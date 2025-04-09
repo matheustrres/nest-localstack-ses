@@ -46,6 +46,8 @@ $ docker exec -it localstack awslocal ses verify-email-identity --email "<yourem
 $ docker exec -it localstack awslocal ses list-identities
 ```
 
+- Head to Localstack dashboard and access SES resource: [dashboard](https://app.localstack.cloud/inst/default/resources/ses/identities)
+
 ```bash
 # development
 $ pnpm run start
