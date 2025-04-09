@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "PKief.material-icon-theme",
+    "ms-azuretools.vscode-docker",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "YoavBls.pretty-ts-errors",
+    "Prisma.prisma"
+  ]
+}
